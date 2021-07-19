@@ -1,0 +1,17 @@
+.lapList {
+    font-size: 25px;
+    text-align: center;
+    display: inline;
+}
+
+.min {
+    color: palegreen;
+}
+
+.sec {
+    color: skyblue;
+}
+
+.mill {
+    color: salmon;
+}

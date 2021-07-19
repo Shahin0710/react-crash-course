@@ -1,0 +1,34 @@
+.title{
+    background-color: aliceblue;
+    text-align: center;
+    display: flex;
+    margin: auto;
+    padding: 10px;
+}
+
+
+.title .logo {
+    opacity: 0;
+    transition: all 0.5s;
+    cursor: pointer;
+}
+
+.title:hover .logo {
+    opacity: 1;
+}
+
+.inputTitle{
+    text-align: center;
+    display: flex;
+    margin: auto;
+    padding: 10px;
+}
+
+.type {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 2px solid yellowgreen;
+  border-radius: 4px;
+}

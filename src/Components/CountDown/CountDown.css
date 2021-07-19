@@ -1,0 +1,8 @@
+.display{
+    width: 500px;
+    height: 200px;
+    display: flex;
+    padding: 15px;
+    margin: auto;
+    text-align: center;
+}
